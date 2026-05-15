@@ -1,0 +1,290 @@
+[
+  {
+    "id": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c01",
+    "name": "Angel Samuel Zavala Alvino",
+    "semester": "I",
+    "discipline": "Futbol",
+    "position": "Extremo Izquierdo",
+    "status": "Suplente",
+    "createdAt": "2026-05-14T00:00:00.000Z"
+  },
+  {
+    "id": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c02",
+    "name": "Ferrer Huamán Andy Yashiro",
+    "semester": "V",
+    "discipline": "Futbol",
+    "position": "Delantero",
+    "status": "Suplente",
+    "createdAt": "2026-05-14T00:00:00.000Z"
+  },
+  {
+    "id": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c03",
+    "name": "Valenzuela Rojas Pablo Rui",
+    "semester": "I",
+    "discipline": "Futbol",
+    "position": "Centro Campista",
+    "status": "Suplente",
+    "createdAt": "2026-05-14T00:00:00.000Z"
+  },
+  {
+    "id": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c04",
+    "name": "Ayala Romero Christhian",
+    "semester": "I",
+    "discipline": "Futbol",
+    "position": "Extremo Izquierdo",
+    "status": "Suplente",
+    "createdAt": "2026-05-14T00:00:00.000Z"
+  },
+  {
+    "id": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c05",
+    "name": "Bruss Miguel Segura",
+    "semester": "I",
+    "discipline": "Futbol",
+    "position": "Arquero",
+    "status": "Suplente",
+    "createdAt": "2026-05-14T00:00:00.000Z"
+  },
+  {
+    "id": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c06",
+    "name": "Chavez Rodriguez Hans",
+    "semester": "III",
+    "discipline": "Futbol",
+    "position": "Extremo Derecho",
+    "status": "Suplente",
+    "createdAt": "2026-05-14T00:00:00.000Z"
+  },
+  {
+    "id": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c07",
+    "name": "Collazos Calero Angelo",
+    "semester": "III",
+    "discipline": "Futbol",
+    "position": "Extremo Derecho",
+    "status": "Suplente",
+    "createdAt": "2026-05-14T00:00:00.000Z"
+  },
+  {
+    "id": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c08",
+    "name": "Jheremy Juan Flores Cairampoma",
+    "semester": "I",
+    "discipline": "Futbol",
+    "position": "Lateral Derecho",
+    "status": "Suplente",
+    "createdAt": "2026-05-14T00:00:00.000Z"
+  },
+  {
+    "id": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c09",
+    "name": "Kelvin Guadalupe Loayza",
+    "semester": "V",
+    "discipline": "Futbol",
+    "position": "Centro Campista",
+    "status": "Suplente",
+    "createdAt": "2026-05-14T00:00:00.000Z"
+  },
+  {
+    "id": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c10",
+    "name": "Guadalupe Rodríguez Alexander",
+    "semester": "III",
+    "discipline": "Futbol",
+    "position": "Lateral Izquierdo",
+    "status": "Suplente",
+    "createdAt": "2026-05-14T00:00:00.000Z"
+  },
+  {
+    "id": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c11",
+    "name": "Jimenez Valenzuela Hector",
+    "semester": "I",
+    "discipline": "Futbol",
+    "position": "Centro Campista",
+    "status": "Suplente",
+    "createdAt": "2026-05-14T00:00:00.000Z"
+  },
+  {
+    "id": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c12",
+    "name": "Merino Huamán Rusbel",
+    "semester": "III",
+    "discipline": "Futbol",
+    "position": "Extremo Derecho",
+    "status": "Suplente",
+    "createdAt": "2026-05-14T00:00:00.000Z"
+  },
+  {
+    "id": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c13",
+    "name": "De la Rosa Hermitaño Albert",
+    "semester": "I",
+    "discipline": "Futbol",
+    "position": "Centro Campista",
+    "status": "Suplente",
+    "createdAt": "2026-05-14T00:00:00.000Z"
+  },
+  {
+    "id": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c14",
+    "name": "Quispe Chávez André",
+    "semester": "I",
+    "discipline": "Futbol",
+    "position": "Defensa Central",
+    "status": "Suplente",
+    "createdAt": "2026-05-14T00:00:00.000Z"
+  },
+  {
+    "id": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c15",
+    "name": "Leon Vega Yandel",
+    "semester": "I",
+    "discipline": "Futbol",
+    "position": "Delantero",
+    "status": "Suplente",
+    "createdAt": "2026-05-14T00:00:00.000Z"
+  },
+  {
+    "id": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c16",
+    "name": "Cajahuaman Granizo Luis",
+    "semester": "VII",
+    "discipline": "Futbol",
+    "position": "Arquero",
+    "status": "Suplente",
+    "createdAt": "2026-05-14T00:00:00.000Z"
+  },
+  {
+    "id": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c17",
+    "name": "Alejos Dorregaray Ángel",
+    "semester": "VII",
+    "discipline": "Futbol",
+    "position": "Extremo Derecho",
+    "status": "Suplente",
+    "createdAt": "2026-05-14T00:00:00.000Z"
+  },
+  {
+    "id": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c18",
+    "name": "Diego del Valle",
+    "semester": "I",
+    "discipline": "Futbol",
+    "position": "Centro Campista",
+    "status": "Suplente",
+    "createdAt": "2026-05-14T00:00:00.000Z"
+  },
+  {
+    "id": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c19",
+    "name": "Atencio Tixe Harold",
+    "semester": "I",
+    "discipline": "Futbol",
+    "position": "Centro Campista",
+    "status": "Suplente",
+    "createdAt": "2026-05-14T00:00:00.000Z"
+  },
+  {
+    "id": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c20",
+    "name": "Chagua Panduro Rivaldo",
+    "semester": "VII",
+    "discipline": "Futbol",
+    "position": "Defensa Central",
+    "status": "Suplente",
+    "createdAt": "2026-05-14T00:00:00.000Z"
+  },
+  {
+    "id": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c21",
+    "name": "Celis Cardenas Jean",
+    "semester": "VII",
+    "discipline": "Futbol",
+    "position": "Delantero",
+    "status": "Suplente",
+    "createdAt": "2026-05-14T00:00:00.000Z"
+  },
+  {
+    "id": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c22",
+    "name": "Estrada Velasquez Kenndy",
+    "semester": "V",
+    "discipline": "Futbol",
+    "position": "Lateral Derecho",
+    "status": "Suplente",
+    "createdAt": "2026-05-14T00:00:00.000Z"
+  },
+  {
+    "id": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c23",
+    "name": "Velasquez Luis Alexis",
+    "semester": "VII",
+    "discipline": "Futbol",
+    "position": "Centro Campista",
+    "status": "Suplente",
+    "createdAt": "2026-05-14T00:00:00.000Z"
+  },
+  {
+    "id": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c24",
+    "name": "Valle Ambrocio Brayan",
+    "semester": "VII",
+    "discipline": "Futbol",
+    "position": "Lateral Derecho",
+    "status": "Suplente",
+    "createdAt": "2026-05-14T00:00:00.000Z"
+  },
+  {
+    "id": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c25",
+    "name": "Mauricio Alvarado Jason",
+    "semester": "VII",
+    "discipline": "Futbol",
+    "position": "Delantero",
+    "status": "Suplente",
+    "createdAt": "2026-05-14T00:00:00.000Z"
+  },
+  {
+    "id": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c26",
+    "name": "Rivera Carhuaricra Emerson",
+    "semester": "VII",
+    "discipline": "Futbol",
+    "position": "Centro Campista",
+    "status": "Suplente",
+    "createdAt": "2026-05-14T00:00:00.000Z"
+  },
+  {
+    "id": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c27",
+    "name": "Rojas Cruz Alyami",
+    "semester": "V",
+    "discipline": "Futbol",
+    "position": "Defensa Central",
+    "status": "Suplente",
+    "createdAt": "2026-05-14T00:00:00.000Z"
+  },
+  {
+    "id": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c28",
+    "name": "Palpan Rimac Sergio",
+    "semester": "IX",
+    "discipline": "Futbol",
+    "position": "No designado",
+    "status": "Suplente",
+    "createdAt": "2026-05-14T00:00:00.000Z"
+  },
+  {
+    "id": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c29",
+    "name": "Rojas Torres Paolo",
+    "semester": "IX",
+    "discipline": "Futbol",
+    "position": "No designado",
+    "status": "Suplente",
+    "createdAt": "2026-05-14T00:00:00.000Z"
+  },
+  {
+    "id": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c30",
+    "name": "Ricras Rojas Geófilo",
+    "semester": "IX",
+    "discipline": "Futbol",
+    "position": "No designado",
+    "status": "Suplente",
+    "createdAt": "2026-05-14T00:00:00.000Z"
+  },
+  {
+    "id": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c31",
+    "name": "Travezaño Rodriguez Jonh Wildem",
+    "semester": "VII",
+    "discipline": "Futbol",
+    "position": "DT",
+    "status": "Suplente",
+    "createdAt": "2026-05-14T00:00:00.000Z"
+  },
+  {
+    "id": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c32",
+    "name": "Alvarado Mandujano Jheremy",
+    "semester": "V",
+    "discipline": "Futbol",
+    "position": "DT",
+    "status": "Suplente",
+    "createdAt": "2026-05-14T00:00:00.000Z"
+  }
+]
